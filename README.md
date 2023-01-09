@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">안녕하세요. 프론트엔드 개발자 윤여현 입니다. 👨‍💻 working since 2016 🚀</div>  
+### <div align="center">안녕하세요. 모바일 앱 개발자 윤여현 입니다. 👨‍💻 working since 2016 🚀</div>  
   
 
-- 🔭 지금 현재 비주얼 캠프에서 근무중입니다. [VisualCamp](https://visual.camp/ko/)  
-  
-
-- 🌱 요즘 공부하는 분야는 프론트엔드 최적화 입니다.  
+- 🔭 사이드 프로젝트로 Mastodon의 클라이언트를 Flutter로 개발 중입니다.
   
 
 - ⚡ Email: dbsdugus00@gmail.com  
