@@ -4,7 +4,8 @@
   
 
 ### <div align="center">안녕하세요. 모바일 앱 개발자 윤여현 입니다. 👨‍💻 working since 2016 🚀</div>  
-  
+
+- 앱 개발 시 React Native 혹은 Flutter를 사용하고 있습니다.
 
 - 🔭 사이드 프로젝트로 Mastodon의 클라이언트를 Flutter로 개발 중입니다.
   
