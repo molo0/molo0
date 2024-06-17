@@ -6,15 +6,13 @@
 ### <div align="center">안녕하세요. 모바일 앱 개발자 윤여현 입니다. 👨‍💻 working since 2016 🚀</div>  
 
 - Working as Frontend Engineer and PM at World Best Tennis mobile app team Smaxh!
-- 2023년부터 테니스 관련 서비스르 제공하는 스매시(Smaxh)에서 Frontend Engineer이자 PM으로 일하고 있습니다.
+- 현재 iTruck에서 프론트엔드 연구원으로 일하고 있습니다.
 
 - 앱 개발 시 React Native 혹은 Flutter를 사용하고 있습니다.
 
-- 🔭 사이드 프로젝트로 Mastodon의 클라이언트를 Flutter로 개발 중입니다.
   
 
 - ⚡ Email: dbsdugus00@gmail.com
-- 🎾 Company mail : hyun@smaxh.com
   
 
 <br/>  
